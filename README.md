@@ -1,4 +1,5 @@
 # MCP_Forge 🛠️
+![CI](https://github.com/realMNohgee/MCP_Forge/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Scaffold a runnable Model Context Protocol server from the command line — zero dependencies, pure Python stdlib.**
 
